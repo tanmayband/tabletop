@@ -1,3 +1,5 @@
+# Tabletop Browser App
+
 Frontend make with [Create React App](https://github.com/facebook/create-react-app).<br/>
 Backend made with NodeJS, supported with MongoDB.
 
@@ -35,4 +37,6 @@ However, `Items` and `Materials` need to be added directly into MongoDB. All the
     - Affect health of weapons and tools
 - Add mechanism to unlock new recipes
 
-## Have fun DnD-ing!
+
+<br/>
+Have fun DnD-ing!
