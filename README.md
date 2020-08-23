@@ -1,6 +1,6 @@
 # Tabletop Browser App
 
-Frontend make with [Create React App](https://github.com/facebook/create-react-app).<br/>
+Frontend made with [Create React App](https://github.com/facebook/create-react-app).<br/>
 Backend made with NodeJS, supported with MongoDB.
 
 ![screenshot](https://github.com/tanmayband/tabletop/blob/master/frontend_screenshot.png?raw=true)
