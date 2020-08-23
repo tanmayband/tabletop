@@ -1,6 +1,8 @@
 Frontend make with [Create React App](https://github.com/facebook/create-react-app).<br/>
 Backend made with NodeJS, supported with MongoDB.
 
+![screenshot](https://github.com/tanmayband/tabletop/blob/master/frontend_screenshot.png?raw=true)
+
 ## Ports
 The application uses following ports (can be changed).<br/>
 Frontend: `3000`<br/>
